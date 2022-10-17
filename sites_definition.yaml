@@ -1,0 +1,7 @@
+sites:
+  <url>
+    type: [json, html, js]
+    criteria:
+      <number>:
+        field: HTML code
+        count: 
