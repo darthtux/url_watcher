@@ -1,0 +1,4 @@
+sites:
+  'https://www.google.com':
+    type: js
+  'https://www.nespresso.com':
